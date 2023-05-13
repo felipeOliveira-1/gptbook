@@ -1,6 +1,10 @@
 # GPTBook
 GPT Book é uma aplicação desenvolvida em Python que utiliza o modelo de linguagem GPT-4 para ler e processar livros em PDF, permitindo ao usuário interagir e buscar informações relevantes dentro do conteúdo.
 
+![Descrição da Imagem 1](https://github.com/felipeOliveira-1/gptbook/blob/main/gptbook1.jpg?raw=true)
+![Descrição da Imagem 2](https://github.com/felipeOliveira-1/gptbook/blob/main/gptbook2.jpg?raw=true)
+
+
 ## Requisitos
 * Python 3.8+
 *Bibliotecas:
