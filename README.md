@@ -7,7 +7,8 @@ GPT Book é uma aplicação desenvolvida em Python que utiliza o modelo de lingu
 
 ## Requisitos
 * Python 3.8+
-*Bibliotecas:
+
+*Bibliotecas*:
   * streamlit
   * langchain
   * PyPDFLoader
